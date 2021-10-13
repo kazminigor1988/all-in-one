@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 import { useState } from 'react'
 import { InferGetStaticPropsType  } from 'next'
-import styles from '../../styles/Home.module.css'
+import styles from '../../styles/Random.module.css'
 import GrammarRules  from '../../services/api/GrammarRules'
  
 function getRandomInt(max: number) {
@@ -21,12 +21,24 @@ const Random: NextPage<InferGetStaticPropsType<typeof getStaticProps>> = ({ gram
 
   return (
     <div className={styles.container}>
-      <button onClick={randItemIndex}>Randomize</button>
+      <p className={styles.ruleName}>{grammar[itemIndex].name}</p>
       <div>
-        {grammar[itemIndex].name}
+        <button onClick={randItemIndex}>Randomize</button>
         <button onClick={moreInfo}>More info</button>
       </div>
-      {showMoreInfo && <div>test</div>}
+      {
+        showMoreInfo && 
+        <div>
+          {grammar[itemIndex].description && <p>{grammar[itemIndex].description}</p>}
+          {grammar[itemIndex].rules && <><p>Rules:</p><p>{grammar[itemIndex].rules.map(rule => { 
+            return (<><span>{rule}</span><br /></>);
+          })}</p></>}
+          {grammar[itemIndex].examples && <><p>Examples:</p><p>{grammar[itemIndex].examples.map(example => { 
+            return (<><span>{example}</span><br /></>);
+          })}</p></>}
+          <p>Lesson: {grammar[itemIndex].lesson}</p>
+        </div>
+      }
     </div>
   )
 }

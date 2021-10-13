@@ -3,7 +3,13 @@
   padding: 0 0.5rem;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
   height: 100vh;
+}
+
+.ruleName {
+  text-align: center;
+  height: 80px;
+  display: flex;
+  align-items: center;
 }

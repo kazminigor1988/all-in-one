@@ -3,12 +3,11 @@ const load = (level: number) => {
 };
 
 export type Grammar = {
-  type: "sw" | "sp";
   lesson: number;
   name: string;
-  description: string;
+  description?: string;
   examples: string[];
-  rules?: string[];
+  rules: string[];
 };
 
 export default class GrammarRules {

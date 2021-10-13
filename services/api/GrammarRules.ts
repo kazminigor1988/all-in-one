@@ -1,22 +1,20 @@
 const load = (level: number) => {
-    return import (`./json/grammar_${level}`);
+  return import(`./jsons/grammar_${level}`).then((module) => module.default);
 };
 
-type Grammar = {
-    type: 'sw'| 'sp',
-    lesson: number,
-    name: string,
-    description: string,
-    examples: string[],
-    rules?: string[]
+export type Grammar = {
+  type: "sw" | "sp";
+  lesson: number;
+  name: string;
+  description: string;
+  examples: string[];
+  rules?: string[];
 };
 
 export default class GrammarRules {
-    getAll() {
+  getAll() {}
 
-    }
-
-    get(level: number): Promise<Grammar[]> {
-        return load(level);
-    }
+  get(level: number): Promise<Grammar[]> {
+    return load(level);
+  }
 }

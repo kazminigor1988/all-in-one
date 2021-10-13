@@ -15,7 +15,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <div className={styles.grid}>
-          <Link href="/grammar/random">
+          <Link href="/grammar/random" passHref>
             <div className={styles.card}>
               <h2>Grammar randomizer &rarr;</h2>
               <p>Show random grammar rule</p>

@@ -1,0 +1,30 @@
+[
+	{
+		"type": "sw",
+		"lesson": 1,
+		"name": "How come",
+		"description": "is used to ask sb the reason of smth",
+		"examples": [
+			"How come he gets away the everything?",
+			"How come I ran out of fuel?",
+			"How come they have called off our weekly meeting?"
+		]
+	},
+	{
+		"type": "sp",
+		"lesson": 1,
+		"name": "should have V3",
+		"description": "short way to write 'going to'",
+		"examples": [
+			"I should have turned down that job offer.",
+			"I shouldn't have give up my driving courses.",
+			"He should have settled down 2 months go."
+		],
+		"rules": [
+			"Do you think we should have V3(ed)?",
+			"Yes, I think wh should have V3(ed)",
+			"No, I don't think we should have V3(ed)",
+			"No, I think we shouldn't have V3(ed)"
+		]
+	}
+]

@@ -1,0 +1,114 @@
+[
+	{
+		"type": "sw",
+		"lesson": 1,
+		"name": "wanna",
+		"description": "short way to write 'want to'",
+		"examples": [
+			"I/she wanna eat out tonight",
+			"He doesn't wanna listen to my offers",
+			"What you wanna do now?"
+		]
+	},
+	{
+		"type": "sw",
+		"lesson": 1,
+		"name": "gonna",
+		"description": "short way to write 'going to'",
+		"examples": [
+			"I'm gonna ask her out to the restaurant",
+			"He's not gonna lie to his friends again",
+			"What you gonna do with the birthday party?"
+		]
+	},
+	{
+		"type": "sw",
+		"lesson": 1,
+		"name": "gotta",
+		"description": "short way to write 'have to'",
+		"examples": [
+			"I gonna call the police",
+			"He('s) gotta find out the truth",
+			"What you gonna do with the birthday party?"
+		]
+	},
+	{
+		"type": "sp",
+		"lesson": 1,
+		"name": "present perfect (review)",
+		"description": "",
+		"examples": [
+			"She has used her car insurance once.",
+			"I have never broken the traffic rules",
+			"We have been to Lviv several times"
+		],
+		"rules": [
+			"Have you/they event V3(ed)?",
+			"Yes, I/we/they have V3(ed) times (once, twice, several times, many times)",
+			"No, I/we/they have never V3(ed) times.",
+			"Has he/she ever V3(ed)",
+			"Yes, he/she has V3(ed) times",
+			"No, he/she has never V3(ed)"
+		]
+	},
+	{
+		"type": "sp",
+		"lesson": 2,
+		"name": "past perfect (review)",
+		"description": "",
+		"examples": [
+			"Did you realise she had lied to you?",
+			"Did he find out they hadn't accomplished the project?"
+		],
+		"rules": [
+			"Did you/he/she/they realize/know/find out/believe we/she/he/I had/hadn't V3(ed)?",
+			"Yes, I/he/she/they realized/know/found out/believed we/she/he/you had/hadn't V3(ed)",
+			"No, I/he/she/they didn't realize/know/find out/believe we/she/he/you had/hadn't V3(ed)"
+		]
+	},
+	{
+		"type": "sw",
+		"lesson": 2,
+		"name": "who, which, that",
+		"description": "",
+		"examples": [
+			"We looked for the information. The info was on the Internet.",
+			"We looked for the info that was on the Internet.",
+			"I don't respect parents who shout at their children.",
+			"I met a travel agent at the airport who helped me.",
+			"She can't imagine any circumstances which will influence him.",
+			"He couldn't find any facts which would prove his words",
+			"She really needs someone that will handle her problem.",
+			"I will come to her wedding that will be in April"
+		],
+		"rules": [
+			"Who - people (sometimes animals)",
+			"What - people and animals",
+			"Which - things"
+		]
+	},
+	{
+		"type": "sw",
+		"lesson": 3,
+		"name": "",
+		"description": "",
+		"examples": [
+			""
+		],
+		"rules": [
+			""
+		]
+	},
+	{
+		"type": "sw",
+		"lesson": 3,
+		"name": "",
+		"description": "",
+		"examples": [
+			""
+		],
+		"rules": [
+			""
+		]
+	}
+]

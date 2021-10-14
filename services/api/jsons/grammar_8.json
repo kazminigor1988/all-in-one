@@ -376,5 +376,64 @@
 			"You shouldn't have been so strict with her. Neither should out superior.",
 			"I haven't paid the deposit yet. Neither have me."
 		]
+	},
+	{
+		"name": "to be used to (habit)",
+		"lesson": 12,
+		"examples": [
+			"I am used to studying English 3 times a week.",
+			"Peter is used to working overtime.",
+			"We are used to making up the sentences with words."
+		]
+	},
+	{
+		"name": "In case",
+		"lesson": 12,
+		"examples": [
+			"In case (В случае) I am late I wll call you back."
+		],
+		"rules": [
+			"In case I V1 I will V1"
+		]
+	},
+	{
+		"name": "Provided that",
+		"lesson": 12,
+		"examples": [
+			"Provided that (При условии, что) you pass your exam you will be able to enter university."
+		],
+		"rules": [
+			"Provided (that) he V1s he will V1"
+		]
+	},
+	{
+		"name": "Unless",
+		"lesson": 12,
+		"examples": [
+			"Unless (Если) he apologies to me for his behaviour I will never talk to him again."
+		],
+		"rules": [
+			"Unless he V1s he will V1"
+		]
+	},
+	{
+		"name": "Suppose",
+		"lesson": 12,
+		"examples": [
+			"Suppose (Предположим) you win one million dollar what will you do?"
+		],
+		"rules": [
+			"Suppose he V1s he will V1"
+		]
+	},
+	{
+		"name": "Nevertheless",
+		"lesson": 12,
+		"description": "means 'in spite of' a fact you have just mentioned",
+		"examples": [
+			"He got into a terrible car crash. Nevertheless he still drives a car.",
+			"The weather turned nasty but the concert in the open air was perfect nevertheless.",
+			"In short he lied to her nevertheless she still relies on him."
+		]
 	}
 ]

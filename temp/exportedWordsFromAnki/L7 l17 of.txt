@@ -1,0 +1,10 @@
+некоторые из / какой то	some of (uncount, plural)
+любые из 	any of ( uncount, plural )
+никакие/никто зи	none of ( uncount, plural )
+много из	many of (count/plural)
+мало из	a few of (count, plural)
+оба из	both of (count, plural)
+каждый из	each of (plural, count)
+один из	one of (plural/count)
+все из	all of
+большинство	most of (count/uncount)

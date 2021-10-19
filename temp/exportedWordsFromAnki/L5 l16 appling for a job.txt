@@ -1,0 +1,19 @@
+работа с частичной занятостью	a part time job
+работа с полной занятостью	a full time job
+предыдущий	former
+текущий	current
+будущий	future
+ответсвенный за	responsible for
+ответственности	responsobilities
+занимать должность (директора, президента, топ менеджера)	hold a position
+занимать должность	hold a post
+нанимать	hire (d)
+увольнять	fire (d)
+увольняться	quit quit quit
+требовать	require (d)
+соответсвовать требованиям	meet requirements
+повышать кого то 	promote
+резюме	cv
+больничный	 sick leave
+идти на больничный	go on sick leave
+быть на больничном	be on sick leave

@@ -1,0 +1,28 @@
+трагедия	tragedy
+мюзикл	musical
+выступать	perform (ed)
+выступдение	performance
+на сцене 	on the stage
+эпизод	scene
+декорации	the sets
+серия	episode
+сериал	series
+премьера	firat night
+актер	actor
+актриса	actress
+рок группа	rock group
+джаз группа	jazz band
+на концерте	at the concert
+событие	event
+жанр	genre
+научная фантастика	science fiction
+пьеса	play
+комедия	comedy
+человек искуства	artist
+художник	painter
+живая музыка	live music
+классическая музыка	classical music
+композитор	composer
+сочинять музыку	compose music
+музыкант	musician
+певец	singer

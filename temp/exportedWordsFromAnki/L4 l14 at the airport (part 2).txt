@@ -1,0 +1,19 @@
+багаж	baggage / luggage
+зона получения багажа	baggage claim
+карусель	carousel
+чемодан	suitcase
+взвешивать	weigh
+лишний вес / дополнительный вес	extra weight
+иметь прямой рейс	have a direct flight
+транзитный рейс	have a transit / connecting flight
+внутренний рейс	have a domestic flight
+международный перелет	have a intrrnational flight
+ручная кладь	carry on
+ручная кладь 2	hand luggage
+задержка	delay
+отменять	cancel
+в бюро находок	in the lost-and-found office
+перепутать	mix up
+возмещать расходы	refund expanses
+летьта на авиолинии	fly with (low cost) airlines
+воспольщоваться коротким регулярным рейсом	take a shuttle

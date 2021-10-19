@@ -1,0 +1,17 @@
+прием пищи	meals
+жилье	accomodation
+гид	guide
+турагенство / турагент	travel agency / agent
+турпакет	package tour
+посольство	embassy
+иметь страховку	have insurance
+подучить язык ( прау фраз, после возвращения )	pick up a language
+билет в одну сторону 	a one way ticket
+билет обратно	a return ticket
+провести кого то 	see sb off
+забронировать что то заранее	book(ed) smth in advance
+арендовать	to rent (ed)
+аренда	a rent
+нанять	to hire (d)
+нанять машину с водителем	to hire a car
+подать заявку на (визу)	apply for (a visa)

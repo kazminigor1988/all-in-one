@@ -1,0 +1,26 @@
+вывихнуть	twist (ed)
+болезнь ( опасная и/или тяжелая )	a disease
+болезнь ( not dangereouse )	illness
+Мне больно	 I am hurt
+давать боль (палей болит и т.д.)	to hurt
+причинять боль	to hurt
+иметь осмотр	have an examination
+неообходим осмотр	need an examination
+осматривать	do an examination
+осматривать / изследовать	to examine
+иметь полный мед осмотр	have a check-up
+иметь операцию (на чем то)	have an operation (on smt)
+принимать таблетки (от головной боли)	take pills ( from headache)
+обезбаливающее	painkillers
+сделать укол	give an injection
+получить укол	have an injection
+лечить	cure (d)
+заживать	heal (ed)
+рана (разрыв кожи)	a wound
+наносить рану (разрыв кожи)	to wound
+выписывать кому то что то 	to prescribe smb smth
+рецепт	presсription
+выписывать рецепт	give a presсription
+лечение	threatment
+идти на поправку	get better
+выздоравливать (от)	recover (ed) (from)

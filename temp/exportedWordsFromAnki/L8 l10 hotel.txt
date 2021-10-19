@@ -1,0 +1,17 @@
+Раскошный	Luxurious
+Бюджетный	Budget
+Не занятый / свободный	Vacant
+Занятый	Occupy
+Без свобдных мест	Booked up
+На чье то имя	In the name of
+Под каким именем бронь	Under what name is a reservation
+Порковка	Parking lot / car parking / parking space
+Заранее	In advance
+В высокий сезон	In the hish / peak season
+В низкий сезон	In the low / off  season
+Переполненный	Crowded
+Удобный 	Convinient
+Жалоба / пожаловаться	Make a complaint
+Жаловаться	Complain to / about / of
+Таракан	Cockroach
+Тот кто часто путешествует	Well- traveled

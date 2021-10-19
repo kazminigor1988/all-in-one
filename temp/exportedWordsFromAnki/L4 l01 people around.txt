@@ -1,0 +1,22 @@
+человек	person
+люди	people
+родственник	relative
+семья	family
+родственники со стороны мужа/жены	in-laws
+племянник	nephew
+племянница	niece
+двоюродны брат/сестра	cousin
+дружбан	pal
+друг по переписке	keypal
+колега	colleague
+колега 2	workmate
+однокласник	classmate
+начальник	superior
+подчиненный	subordinate
+сосед	neighbor
+незнакомец	stranger
+иностранец	foreigner
+дружбан 2	buddy
+враг	enemy
+прохожий	passerby
+прохожие	passersby

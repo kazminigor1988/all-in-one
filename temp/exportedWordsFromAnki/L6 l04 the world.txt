@@ -1,0 +1,28 @@
+планета	planet
+Земля	the Earth
+на острове	on the island
+на полуострове 	on the peninsula
+север	North
+северный климат	northern climat
+в северной части чего то	in the north of smt
+юг	South
+южные животные	southern animals
+восток	East
+восточные люди	eastern people
+запад	West
+западные страны	western countries
+тропический лес	 rain forest
+саванна	savanna
+пустыня	desert
+долина	valley
+северное сияние	the northern lights
+равнина	plain
+континент	continent
+скалы	rocks
+поток	stream
+быть расположеным	be situated 
+быть расположеным 2	be located
+омываться чем то	be wasted by
+водопал	waterfall
+джунгли	jungle
+обрыв	cliff

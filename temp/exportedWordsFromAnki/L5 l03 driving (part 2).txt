@@ -1,0 +1,20 @@
+штраф	fine
+получить штраф	get a fine
+оплачивать траф	pay a fine
+тормозить	brake
+быть в пробке (l5)	be in a traffic jam
+застрять в пробке	get stuck in a traffic jam
+попасть в аварию	get into a car crash
+нарушать ПДР	break the traffic rules
+следовать ПДР	follow the traffic rules
+врезаться в что то (повредить сильно машину)	crash into smth
+сбить	hit
+на заправке	at the gas/petrol station
+на светофоре (l5)	at the traffic lights
+перекреток с круговым движением	traffic circle
+дорожный знак	traffic sigh
+на перекрестке (l5)	at the crossroads
+пешеход	pedestrian
+переходить по пешеходному переходу	take a crosswalk
+зебра	zebra crossing
+права	driver / -s / -ing licence 

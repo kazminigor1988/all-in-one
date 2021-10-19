@@ -1,0 +1,33 @@
+самолет	(air)plane
+в самолете	on the (air)plane
+терминал	terminal
+в терминале	at the terminal
+расписание отлетов	departures
+полет	flight
+зарегистрироваться	check in
+зарегистрироваться в	check in at
+посадочный талон	boarding pass
+таможенный контролье	customs contor
+проходить таможенный контроль	go through customs control
+паспортный контроль	passport control
+проходить паспортный контроль	go through passport control
+ зал ожидания	departure lounge
+в зале ожидания	in the departure lounge
+магазин дьюти фри	duty-free (shop)
+в магазине дьюти фри	at the duty-free (shop)
+вход на посадку	gate
+у входа на посадку	at the gate
+садиться на самолет	board the plane
+посадка	boarding
+пристегнуть ремни безопасности	fasten seat belts
+взлетать	take off
+взлет	take-off
+летать самолетом	go by plane
+приземляться	land
+приземление 	landing
+экипаж	crew
+борт проводник	flight attendant
+пилот	pilot
+капитан	capitan
+расписание придетов	arrivals
+комод	chest of drawers

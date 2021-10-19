@@ -435,5 +435,82 @@
 			"The weather turned nasty but the concert in the open air was perfect nevertheless.",
 			"In short he lied to her nevertheless she still relies on him."
 		]
+	},
+	{
+		"name": "get used to __ing",
+		"lesson": 13,
+		"description": "We use get used to to talk about the process of becoming familiar with something. (привыкать)",
+		"rules": [
+			"I am getting used to V1ing",
+			"He gets used to V1ing",
+			"I can't get used to V1ing",
+			"He should get used to V1ing",
+			"I will have to get used to V1ing",
+			"They will never get used to V1ind."
+		],
+		"examples": [
+			"I am getting used to waking up at 8 after my vacation.",
+			"Peter can't get used to visiting his in laws every week.",
+			"You should get used to being responsible for everything you do.",
+			"She will have to get used to going to gym 3 times a week.",
+			"I get used to living pets easily."
+		]
+	},
+	{
+		"name": "Second condition with In case",
+		"lesson": 13,
+		"rules": [
+			"In case I v2 I would V1"
+		],
+		"examples": [
+			"In case It were cold I would put on a warm coat."
+		]
+	},
+	{
+		"name": "Second condition with Provided",
+		"lesson": 13,
+		"rules": [
+			"Provided he V2 he would V1"
+		],
+		"examples": [
+			"Provided that worked well, you would be promoted."
+		]
+	},
+	{
+		"name": "Second condition with Unless",
+		"lesson": 13,
+		"rules": [
+			"Unless they didn't V1 they wouldn't V1"
+		],
+		"examples": [
+			"Unless you asked me to stay I would leave."
+		]
+	},
+	{
+		"name": "Second condition with Suppose",
+		"lesson": 13,
+		"rules": [
+			"Suppose they didn't V1 they wouldn't V1"
+		],
+		"examples": [
+			"Suppose you were right I wouldn't you anyway."
+		]
+	},
+	{
+		"name": "Question 3d condition",
+		"lesson": 14,
+		"rules": [
+			"What would you have done if had V3",
+			"If I had V3 he would have V3"
+		],
+		"examples": [
+			"If they had supplied the goods last Monday we would have failed the contract.",
+			"If he had calculated the income and the expenses he wouldn't have delayed accomplishing projects."
+		]
+	},
+	{
+		"name": "have sb do smth",
+		"lesson": 14,
+		"description": "means to get somebody to do something"
 	}
 ]

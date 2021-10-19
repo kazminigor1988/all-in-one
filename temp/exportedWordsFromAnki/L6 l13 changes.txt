@@ -1,0 +1,21 @@
+ потемнеть	get dark
+холодать/остыть	get cold
+намокнуть	get wet
+улучшиться	get better
+ухудшиться	get worse
+покраснеть	turn red
+побледнеть	turn pale
+позеленеть	turn green
+поседеть	turn grey
+становиться ужасным	turn nasty
+разбагатеть	become rich
+стать счастливым	become happy
+стать ясным	become clear
+стать известным	become famous
+разозлиться	become angry
+стать президентом	become a president
+сойти с ума	go mad
+прокиснуть	go sour (соур)
+испортиться	go bad
+одичать/сойти с ума на фесте	go wild
+разориться	go broke

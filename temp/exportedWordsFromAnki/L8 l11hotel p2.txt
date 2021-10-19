@@ -1,0 +1,21 @@
+Звонок пробуждения	a wake up call
+Отменить	Cancel
+Бронирование	Reservation / booking
+Зарегистрироваться / посетить	Check in
+Выселиться / забрать документы	Check out
+Заплатить депозит 10%	Pay a deposit of 10%
+Забрать депозит	Get a deposit back
+Закуски	Refreshments
+Надавати первую помощь	Give first aid
+Получать первую помощь	Get first aid
+Инцидент	Incedent
+Несчастный случай	Accident
+Гостеприимство	Hospitality
+Гостиприимный	Hospitable
+Место расположения	A location
+Доступный кому то	Available to sb / smth
+Тупик на улице	Dead end street
+Тупиковая ситуация	Dead end situation
+ Удобвства	Facilities
+Предоставлять кому то что то	Provide sb with smth
+Пункт назначения	Destination

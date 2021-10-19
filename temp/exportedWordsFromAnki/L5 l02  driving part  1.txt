@@ -1,0 +1,23 @@
+садиться в машины	get in a car
+выходить из машины (l5)	get out of a car
+начинать движение 	drive off
+заводить мотор	start up
+останавливать мотор	stop the engine
+подвезти кого то куда то	drive smb to
+подвозить кого то домой	drive smb home
+забрать кого то откуда то	pick up smb from
+сьезжать с дороги	turn off
+повернуть направо/налево	turn (to the) right/left
+ускоряться	speed (sped, speeded) up
+замедляться	slow(ed) down
+превышать скорость	exceed(ed) the speed limit
+обгонять	overtake (overtook, overtaken)
+топливо	fuel
+заправлять машину	fuel(ed, ing)
+пристегивать ремень безопасности	fasten(ed) the seat belts
+заканчиваться (когда говорим о чем то что может закончиться: деньги, время...)	run out
+у меня заканчиваеться вода	I run out the water
+вода заканчилась	water ran out
+посещать	attend
+наинать движение	drive off
+врезаться в что то (повредить сильно машину) 	crash into smth

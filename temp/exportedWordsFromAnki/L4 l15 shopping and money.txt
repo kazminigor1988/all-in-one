@@ -1,0 +1,20 @@
+ходить за покупками	go shopping
+товары	goods
+покупать (по высокой/низкой) цене	buy (at a high/low) price
+дешевый	cheap
+дорогой	expensive
+бесплатный	free
+купить что то на распродаже	buy smt on sale
+со скидкой	at a discount
+под горантией	under guarantee
+гарантия на	guarantee on smt
+торговаться с кем то	bargain with smb / about smt
+на кассе	at the cash desk
+продавец-консультант	shop assistant
+позволять себе	afford
+могу позволить себе купить что то	can afford to buy smt
+сколько это стоит?	how much does it cost?
+сколько это стоит? 2 вариант	How much is it?
+в торговом центре	at the mall
+бесплатная доставка	free shipping
+срок годности	expiry date

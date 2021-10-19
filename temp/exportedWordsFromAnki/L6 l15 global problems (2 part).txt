@@ -1,0 +1,18 @@
+заложник	hostage
+освободить заложников	release (d) the hostages
+согласиться с требованиями	agree (d) to demands 
+эпидемия	epidemic
+распростронять / ться	spread
+пострадавший	casualty (ies)
+жертва	victim
+выжившие	survivors
+пережить	live through
+беженец	refugee (s)
+катастрофа	disaster(s)
+раненый	wounded (agjective)
+голод / голодовка	famine
+спид	( the) AIDS
+ наводнение	flood
+засуха	drought
+землятрясение	earthquake
+извержение вулкана	volcanic eruption

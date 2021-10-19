@@ -1,0 +1,31 @@
+щиколотка	ankle
+талия	waist
+большой ралец руки	thumb
+ладонь	palm
+верхняя часть бедра	lap
+живот / желудок	stomach
+ локоть	elbow
+пятка	heel
+пообедать	have lunch
+выпить чашку кофе	have a cup of coffee
+выкурить сигаретку	have a cigarette
+устраивать вечеринку	have a party
+встреча (больше неформальная)	have a meeting
+принять душ	have a shower
+поболтать (разговор не о чем)	have a chat
+отдохнуть	have a rest
+взглянуть на что то (коротки киуть взгляд)	have a look (at)
+хорошо провести время	have a nice time
+вздремнуть	have a nap
+веселиться	have fun
+именть экзамен	have an exam
+иметь встречу (с доктором, юристом)	have an appointment
+выпить что то	have a drink of smsh
+спорить / посормться	have an argument
+обсуждать что то 	have a discussion about
+нам нужно поговорить (о чем то серьезном)	have a talk
+хорошо поспать	have a good sleep
+иметь время для / на	have time (for/to)
+не иметь времени для / на	have no time (for/to)
+быть свободным от дел	have nothing to do
+сочувствовать кому то	have sympathy for

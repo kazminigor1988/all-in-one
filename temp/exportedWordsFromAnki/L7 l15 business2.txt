@@ -1,0 +1,15 @@
+ценность / цена	value
+перевозить из в	to transpprt from to
+с/под гарантией	with/under guarantee
+доставка	delivery
+дата доставки	delivery date 
+20 % скидка	at the 20% discount
+НДС	VAT
+включать в себя 	include
+условия 	condition
+обанкротиться	go bankrupt
+конкурент	competitor
+накупать что то со скидкой	buy smth wholesale
+накупать что то в розницу	buy smth retail
+пользоваться спросом	be in demand
+орендовать	lease 

@@ -1,0 +1,27 @@
+шарф	scarf
+шарфы	scarves
+перчатки	glove
+бабочка (на шею)	bowtie
+галстук	tie
+очки	glasses
+солнцезащитные очки	sunglasses
+украшения	jewerly
+кольцо с брилиантом	diamond ring
+драгоценный камень	precious stone
+цепочка	chain
+сережки	earring
+браслет	bracelet
+бусгалтер 	bra
+женское нижнее белье	panties
+мужское нижнее белье	 briefs
+колготки	tights
+женская ручная сумочка	handbag
+женская ручная сумочка 2	purce
+кошелек	wallet
+подделка	knockoff
+вид из окна на море	sea view
+убираться (в квартире)	tidy up
+чье ?	whose
+жаловаться на	complain about
+стирать	do the laundry
+прикроватная тумбочка	bedside table

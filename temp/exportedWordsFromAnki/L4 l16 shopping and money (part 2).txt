@@ -1,0 +1,18 @@
+менять валюту	change currency
+платить за что то 	pay for
+платить картой	pay by card
+платить наличными	pay in cash
+низкого/высокого качества	of low/high quality
+брать в долг что то у кого то	borrow smt from smb
+давать в долг что-то комуто	lend smt to smb
+откладывать деньги на что-то	save for smth
+тратить зря на что то 	waste on smth
+тратить на что-то	spend on smth
+зарабатывать 	earn
+зарплата	salary
+использовать банкомать	use an ATM
+долг	debt
+достаточно	enough
+быть на мели	be broke
+быть состоятельным	be well off
+открывать счет в банке	open a bank account

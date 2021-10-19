@@ -1,0 +1,14 @@
+идти/гулять/ехать вверх (по улице)	go/walk/drive up (the street)
+идти/гулять/ехать вниз (по улице)	go/walk/drive down (the street)
+идти/гулять/ехать мимо (магазина)	go/walk/drive past (the shop)
+ижти/гулять/ехать через (парк)	go/walk/drive through (the park)
+идти/гулять/ехать над (рекой)	go/walk/drine over (the river)
+прыгать над костром	jump over the fire
+пролетать над	fly over
+идти/гулять/ехать под (мостом)	go/walk/drive under (the bridge)
+пересекать (площадь)	go/walk/drive across (the square)
+идти/гулять/ ехать вдоль (дороги)	go/walk/drive along (the road)
+идти/гулять/ездить вокруг (дома)	go/walk/drive around (the building)
+идти/прогуливаться/ехить по направлению к (музею)	go/walk/drive towards (the museum)
+идти/гулять/ехать вперед	go/walk/drive ahead
+идти/гулять/ехать прямо (вдоль улици)	go/walk/drive straight (a long the street)

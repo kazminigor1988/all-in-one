@@ -1,0 +1,20 @@
+родной город	hometown
+отправляться	to depart
+отправление куда то 	departure for 
+прибывать чего то 	arrive of 
+прибытие чего то 	arrival of
+билет в одну сторону	one way ticket
+билет туда и обратно	round trip ticket
+билетная касса	a ticket office
+пасажир	passenger
+попутчик	fellow passenger
+контролер	ticket inspector
+проводник	train attendant
+путешкствовать первым/вторым классом	travel first/seccond class 
+вагон	carriage
+в купе	in the compartment
+вагон ресторан	dining car
+спальный вагон	sleeping car
+в скоростном поезде	on the express train
+на вокзале	at the train station
+камера хранения	a luggage locker

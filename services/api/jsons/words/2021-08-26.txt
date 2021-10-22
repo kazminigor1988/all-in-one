@@ -1,0 +1,1 @@
+[{"ru":"кажеться","en":"seem to"},{"ru":"соперник","en":" rival"},{"ru":"кабель","en":"wire"},{"ru":"береги cвою голову","en":"mind your head"},{"ru":"довольно мило","en":"rather lovely"},{"ru":"взглянем","en":"take a look"}]

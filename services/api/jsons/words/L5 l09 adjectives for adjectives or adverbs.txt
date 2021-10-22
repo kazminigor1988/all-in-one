@@ -1,0 +1,1 @@
+[{"ru":"очень","en":"very"},{"ru":"абсолютно","en":"absolutely"},{"ru":"черезвычайно","en":"extremely"},{"ru":"реально ","en":"really (good)"},{"ru":"просто","en":"simply"},{"ru":"абсолютно 2","en":"totally"},{"ru":"ужасно ","en":"terribly"},{"ru":"слегка","en":"slightly"}]

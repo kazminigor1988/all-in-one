@@ -512,5 +512,17 @@
 		"name": "have sb do smth",
 		"lesson": 14,
 		"description": "means to get somebody to do something"
+	},
+	{
+		"name": "mixed conditional",
+		"lesson": 15,
+		"rules": [
+			"If I had V3, I would V1"
+		],
+		"examples": [
+			"If I had won the lottery I would be rich",
+			"If I had graduated from university I would have a better job now",
+			"If he hadn`t married her he wouldn`t have such a nice family now"
+		]
 	}
 ]
